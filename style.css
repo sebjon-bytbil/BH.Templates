@@ -1,0 +1,13 @@
+body {
+    background: #f0f0f0;
+}
+
+.mockup {
+    background: #fff;
+}
+
+.border-black {
+    border-style: solid !important;
+    border-size: 10px !important;
+    border-image: url(img/mockup/horizontal-2.png) 10 repeat !important;
+}
